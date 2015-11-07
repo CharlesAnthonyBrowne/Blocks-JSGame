@@ -14,11 +14,13 @@
     "gulp-concat": "^2.6.0",
     "gulp-postcss": "^6.0.1",
     "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.4.2",
     "postcss-import": "^7.1.0",
     "postcss-mixins": "^1.0.1",
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^1.0.1",
     "postcss-url": "^5.0.2",
+    "purescript": "^0.7.5",
     "shelljs": "^0.5.3"
   },
   "dependencies": {
@@ -27,10 +29,9 @@
     "debug": "~2.1.1",
     "express": "~4.12.2",
     "hbs": "~2.9.0",
-    "mongodb": "^2.0.47",
+    "mongodb": "~2.0",
     "mongoose": "^4.2.3",
     "morgan": "~1.5.1",
-    "serve-favicon": "~2.2.0",
-    "mongodb": "~2.0"
+    "serve-favicon": "~2.2.0"
   }
 }

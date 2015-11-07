@@ -6,6 +6,7 @@ var
   concat         = require('gulp-concat');
   fs             = require("fs");
   postcssImport  = require('postcss-import');
+  uglify         = require('gulp-uglify');
   url            = require("postcss-url");
   sourcemaps     = require('gulp-sourcemaps');
   autoprefixer   = require('autoprefixer');

@@ -1,5 +1,5 @@
 // Transition
-// Ported from flash project - http://wonderfl.net/c/4gvL
+// Ported from flash project
 //
 function Transition(){
 

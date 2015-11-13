@@ -14,5 +14,5 @@
 
 [![Code Climate](https://img.shields.io/codeclimate/github/kabisaict/flow.svg)](https://github.com/CharlesAnthonyBrowne/personal-site)
 
-# personal-site
-Personal site experiment
+# Under construction
+Under construction..

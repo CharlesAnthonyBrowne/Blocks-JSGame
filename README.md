@@ -15,4 +15,4 @@
 [![Code Climate](https://img.shields.io/codeclimate/github/kabisaict/flow.svg)](https://github.com/CharlesAnthonyBrowne/personal-site)
 
 # Under construction
-Under construction..
+Under construction.. Game dev in pure js and canvas
